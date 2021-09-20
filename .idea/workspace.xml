@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70b37c4d-555f-48e7-979d-2445ee3048b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/user/authService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/user/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/cors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/cors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +44,11 @@
       <workItem from="1629127657534" duration="7575000" />
       <workItem from="1629140298908" duration="4945000" />
       <workItem from="1629145986893" duration="1332000" />
-      <workItem from="1631541599354" duration="7740000" />
+      <workItem from="1631541599354" duration="7849000" />
+      <workItem from="1631713478197" duration="612000" />
+      <workItem from="1631804438863" duration="2347000" />
+      <workItem from="1631817926346" duration="1513000" />
+      <workItem from="1631820804908" duration="1650000" />
     </task>
     <servers />
   </component>
